@@ -6,7 +6,7 @@ body{
 }
 
 .header{
-    background: linear-gradient(to right, #4e73df, #224abe);
+    background: linear-gradient(to right, #4e629c, #4e629c);
     color: white;
     padding: 30px;
     font-size: 32px;
@@ -15,7 +15,7 @@ body{
 }
 
 .nav{
-    background: gold;
+    background: white;
     padding: 15px;
     margin-top: 10px;
     border-radius: 10px;
@@ -49,15 +49,15 @@ body{
 }
 
 .noticia:nth-child(1){
-    background: linear-gradient(to right, #4e73df, #224abe);
+    background: linear-gradient(to right, #16b7f7, #16b7f7);
 }
 
 .noticia:nth-child(2){
-    background: linear-gradient(to right, #1cc88a, #17a673);
+    background: linear-gradient(to right, #5417c7, #5417c7);
 }
 
 .noticia:nth-child(3){
-    background: linear-gradient(to right, #36b9cc, #258391);
+    background: linear-gradient(to right, #cc3636, #cc3636);
 }
 
 .noticia:hover{
