@@ -1,0 +1,32 @@
+body{
+    background: url(https://www.pygmy-elephant.com/medias/uploads/source/W-Trek/History%20of%20TDP/the-towers-w-trek-torres-del-paine.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 893px;
+    border: solid 1px white;
+}
+
+
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 100px;
+    margin: 10px;
+    padding: 10px;
+    color: azure;
+    font-size: 35px;
+
+    
+    background: url(https://th.bing.com/th/id/OIP.bnOKK6OmuoALFklsY3Gz1gHaJQ?w=170&h=213&c=7&r=0&o=7&pid=1.7&rm=3);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
